@@ -1,0 +1,27 @@
+{
+  "name": "stacks",
+  "version": "1.0.0",
+  "description": "A Basic Three-Layer Stacks Application Made With C++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinec-dev/Stacks.git"
+  },
+  "keywords": [
+    "Stacks",
+    "CPP",
+    "C",
+    "Plus",
+    "Plus",
+    "C++"
+  ],
+  "author": "Christine Coomans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinec-dev/Stacks/issues"
+  },
+  "homepage": "https://github.com/christinec-dev/Stacks#readme"
+}
